@@ -9,9 +9,7 @@ A responsive, mobile-first landing page for OBX MEDIA — Digital Marketing & Cr
 - `favicon.svg` — OBX favicon
 
 ## Before publishing
-Open `script.js` and replace:
-`YOUR-EMAIL-HERE@example.com`
-with OBX MEDIA's real business email.
+The enquiry form is configured to send to `obxmediang@gmail.com`.
 
 ## Publish free with GitHub Pages
 1. Create a public GitHub repository named `obx-media`.

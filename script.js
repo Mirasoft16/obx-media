@@ -13,7 +13,7 @@ document.getElementById('year').textContent = new Date().getFullYear();
 function handleSubmit(event) {
   event.preventDefault();
   // Replace this address with OBX MEDIA's real business email before publishing.
-  const recipient = 'YOUR-EMAIL-HERE@example.com';
+  const recipient = 'obxmediang@gmail.com';
   const name = document.getElementById('name').value.trim();
   const business = document.getElementById('business').value.trim();
   const service = document.getElementById('service').value;
